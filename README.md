@@ -1,4 +1,4 @@
-# USDAMySQL
+# Food Data Central (also known as USDA ) MySQL Version
 MySQL Version of FoodData Central (also known as USDA National Nutrient Database)
 
 #Objective :
